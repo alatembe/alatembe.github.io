@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://alatembe.github.io/sitemap.alatembe.gz
+Sitemap: https://alatembe.github.io/app/sitemap.alatembe.gz
+Sitemap: https://alatembe.github.io/assets/sitemap.alatembe.gz
+Sitemap: https://alatembe.github.io/css/sitemap.alatembe.gz
+Sitemap: https://alatembe.github.io/data/sitemap.alatembe.gz
+Sitemap: https://alatembe.github.io/includes/sitemap.alatembe.gz
+Sitemap: https://alatembe.github.io/item/sitemap.alatembe.gz
+Sitemap: https://alatembe.github.io/src/sitemap.alatembe.gz
